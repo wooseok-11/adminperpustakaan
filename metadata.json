@@ -1,0 +1,8 @@
+{
+  "name": "SIP-Perpus Modern",
+  "description": "Sistem Informasi Perpustakaan Sekolah modern, humanized, dan minimalis untuk manajemen buku, sirkulasi, dan anggota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
